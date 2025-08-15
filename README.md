@@ -4,7 +4,7 @@ I'm **Ashken Soriano**, a passionate game developer
 
 ## About Me
 
-I am currently in the early stages of my programming journey. I’m still building my confidence, so I’m focused on exploring different tools and concepts and slowly understanding how they work in real situations. I also create other assets and 3D models using Blender, although I haven’t fully explored it yet. My goal for now is to gradually develop a solid foundation before moving on to more advanced projects.
+I’m still at the beginning of my programming journey, and I’m not really good at it yet — but I do understand a little and I’m continuously learning. Right now I’m mostly exploring different tools and concepts to slowly get a feel for how they work in real situations. I also create assets and 3D models using Blender, although I haven’t fully explored that either. For now, my goal is to gradually build a solid foundation before eventually moving on to more advanced projects.
 
 ## Skills & Technologies
 
