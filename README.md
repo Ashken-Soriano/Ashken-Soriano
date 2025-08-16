@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Ashken Soriano**, a passionate game developer
+I'm **Ashken Soriano**, an aspiring game developer
 
 ## About Me
 
