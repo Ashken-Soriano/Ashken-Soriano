@@ -19,3 +19,16 @@ I'm not really good at programming, but I do understand a little and I’m conti
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+<h2 align="center">📸 My Works</h2>
+
+<p align="center">
+  <img src="<img width="1178" height="645" alt="Screenshot 2025-03-04 191443" src="https://github.com/user-attachments/assets/aa88b59c-6c2a-41d9-b578-42fe714aac28" />
+" alt="1" width="300">
+  <img src="<img width="1361" height="692" alt="Screenshot 2025-03-13 165102" src="https://github.com/user-attachments/assets/6d4da3ff-a94b-4b4b-957a-b0557bb7b6a5" />
+" alt="2" width="300"><br>
+  <img src="<img width="865" height="591" alt="Screenshot 2025-08-27 211415" src="https://github.com/user-attachments/assets/866a5991-6ea6-4cdd-86eb-d958e5ba9db2" />
+" alt="3" width="300">
+  <img src="<img width="959" height="571" alt="Screenshot 2025-08-30 111918" src="https://github.com/user-attachments/assets/844704d2-d94f-4dfd-8413-bbfbbfa7ce97" />
+" alt="4" width="300">
+</p>
