@@ -22,8 +22,6 @@ I'm not really good at programming, but I do understand a little and I’m conti
 
 <h2 align="center">📸 My Works</h2>
 
-<h2 align="center">📸 My Works</h2>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa88b59c-6c2a-41d9-b578-42fe714aac28" alt="1" width="300">
   <img src="https://github.com/user-attachments/assets/6d4da3ff-a94b-4b4b-957a-b0557bb7b6a5" alt="2" width="300"><br>
