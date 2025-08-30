@@ -20,7 +20,7 @@ I'm not really good at programming, but I do understand a little and I’m conti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-<h2 align="center">📸 My Works</h2>
+## My 3D Works
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa88b59c-6c2a-41d9-b578-42fe714aac28" alt="1" width="300">
